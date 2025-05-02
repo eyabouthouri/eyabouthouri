@@ -8,6 +8,7 @@
 ## 📫 Contact
 
 📧 eyabouthouri00@gmail.com  
+🌐 [Mon Portfolio](https://eyabouthouri.github.io/MyPortfolio)
 
 ---
 
@@ -28,6 +29,17 @@
 
 ---
 
+## 💼 Projets phares
+
+- 📦 [angular](https://github.com/eyabouthouri/angular) — SCSS & composants UI Angular  
+- 🧳 [pack-and-go](https://github.com/eyabouthouri/pack-and-go) — App de planification de voyage  
+- 📱 [pack_and_go_mobile](https://github.com/eyabouthouri/pack_and_go_mobile) — Version mobile du projet  
+- 🔗 [PiFullStackJs](https://github.com/eyabouthouri/PiFullStackJs) — Application FullStack JavaScript  
+- ⚛️ [PiReactFront](https://github.com/eyabouthouri/PiReactFront) — Frontend React de projet  
+- 🧑‍💻 [MyPortfolio](https://github.com/eyabouthouri/MyPortfolio) — Mon site personnel portfolio
+
+---
+
 ## 📊 GitHub Stats
 
 <br/>
@@ -36,3 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eyabouthouri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyabouthouri&layout=compact&theme=tokyonight&border_radius=10" width="47%" />
 </div>
+
+---
+
+<!-- ✅ Optionnel : animation snake des contributions (nécessite un GitHub Action) -->
+<!-- ![snake gif](https://github.com/eyabouthouri/eyabouthouri/blob/output/github-contribution-grid-snake.svg) -->
