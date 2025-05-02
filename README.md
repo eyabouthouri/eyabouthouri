@@ -25,7 +25,10 @@
 ---
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Eya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyabouthouri&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyabouthouri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyabouthouri&layout=compact&theme=tokyonight&border_radius=10" width="47%" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyabouthouri&layout=compact&theme=radical)
