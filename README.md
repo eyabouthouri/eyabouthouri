@@ -29,16 +29,7 @@
 
 ---
 
-## 💼 Projets phares
 
-- 📦 [angular](https://github.com/eyabouthouri/angular) — SCSS & composants UI Angular  
-- 🧳 [pack-and-go](https://github.com/eyabouthouri/pack-and-go) — App de planification de voyage  
-- 📱 [pack_and_go_mobile](https://github.com/eyabouthouri/pack_and_go_mobile) — Version mobile du projet  
-- 🔗 [PiFullStackJs](https://github.com/eyabouthouri/PiFullStackJs) — Application FullStack JavaScript  
-- ⚛️ [PiReactFront](https://github.com/eyabouthouri/PiReactFront) — Frontend React de projet  
-- 🧑‍💻 [MyPortfolio](https://github.com/eyabouthouri/MyPortfolio) — Mon site personnel portfolio
-
----
 
 ## 📊 GitHub Stats
 
@@ -53,3 +44,5 @@
 
 <!-- ✅ Optionnel : animation snake des contributions (nécessite un GitHub Action) -->
 <!-- ![snake gif](https://github.com/eyabouthouri/eyabouthouri/blob/output/github-contribution-grid-snake.svg) -->
+![GitHub Snake Light](https://github.com/eyabouthouri/eyabouthouri/blob/output/github-contribution-grid-snake.svg)
+
