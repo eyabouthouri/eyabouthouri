@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Eya Bouthouri
+# 👋 Hello, I'm Eya BOUTHOURI
 
 💻 Développeuse Full Stack passionnée par les technologies web
 🌍 Originaire de Tunisie
@@ -8,7 +8,6 @@
 ## 📫 Contact
 
 📧 eyabouthouri00@gmail.com  
-🔗 [eyabouthouri00@gmail.com ]
 
 ---
 
