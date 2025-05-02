@@ -1,8 +1,8 @@
 # Hey 👋 I'm Eya Bouthouri
 
-🎓 Étudiante en Master 2 Traitement du Signal et des Images  
-💻 Passionnée par le développement full stack, la vision par ordinateur et la data science  
-🌍 Basée en France | Originaire de Tunisie
+ 
+💻 Passionnée par le développement full stack
+🌍 Originaire de Tunisie
 
 ## 📫 Me contacter :
 📧 eyabouthouri00@gmail.com 
