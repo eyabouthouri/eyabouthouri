@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Eya BOUTHOURI
 
 💻 Passionate Full Stack Developer  
-🌍 Originally from Tunisia
 
 ---
 
