@@ -42,7 +42,6 @@
 
 ---
 
-<!-- ✅ Optionnel : animation snake des contributions (nécessite un GitHub Action) -->
-<!-- ![snake gif](https://github.com/eyabouthouri/eyabouthouri/blob/output/github-contribution-grid-snake.svg) -->
-![GitHub Snake Light](https://github.com/eyabouthouri/eyabouthouri/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/eyabouthouri/eyabouthouri/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/eyabouthouri/eyabouthouri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
