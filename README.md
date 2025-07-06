@@ -52,23 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="height:25px; width:25px; margin:5px;" alt="Oracle" />
 </div>
 
----
 
-## 🧩 Featured Projects
 
-- 🔗 [Smart Housing Dashboard](https://github.com/eyabouthouri/smart-housing)  
-  ➤ Full-stack app with React, Spring Boot & PostgreSQL  
-
-- 🔗 [AI ChatBot Assistant](https://github.com/eyabouthouri/ai-bot)  
-  ➤ Built with Node.js, OpenAI API, Socket.io  
-
----
-
-## 📄 Résumé / CV
-
-[![Download CV](https://img.shields.io/badge/-Download_CV-orange?style=for-the-badge&logo=readthedocs)](https://your-cv-link.com)
-
----
 
 ## 📊 GitHub Stats
 
