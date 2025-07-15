@@ -6,7 +6,7 @@
 
 ## 📫 Contact
 
-📧 eyabouthouri00@gmail.com  
+📧 eyabouthouri@outlook.com  
 🌐 [My Portfolio](https://eyabouthouri.github.io/MyPortfolio)  
 🌍 Based in Tunisia | Open to Remote Opportunities  
 
