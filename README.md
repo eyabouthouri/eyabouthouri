@@ -8,7 +8,7 @@
 
 📧 eyabouthouri@outlook.com  
 🌐 [My Portfolio](https://eyabouthouri.github.io/MyPortfolio)  
-🌍 Based in Tunisia | Open to Remote Opportunities  
+🌍 Based in France  
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ## 🧭 Career Timeline
-
+- 📚 **2025–2026** |Master’s Degree (M2) in Signal and Image Processing — University of the Littoral Côte d’Opale (ULCO), France 
 - 🎓 **2023–2024** |  Computer Engineering  
 
 ---
